@@ -38,6 +38,6 @@ My name is Anton and i'm a full-stack webdeveloper
 
 ---
 
-### Contacts
-
+### Contact me
+[![Telegram](/274766360017211.png)](https://t.me/totsamiyparen)
 
