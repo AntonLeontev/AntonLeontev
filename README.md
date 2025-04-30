@@ -33,5 +33,5 @@ My name is Anton and i'm a full-stack webdeveloper
 ---
 
 ### Contact me
-[![Telegram](/274766360017211.png)](https://t.me/totsamiyparen)
+[![Telegram](/274766360017211.png)](https://t.me/anton_leon_web)
 
