@@ -2,12 +2,6 @@
 
 My name is Anton and i'm a full-stack webdeveloper
 
-✨ A quick introduction:
-
-- 🔭 I’m freelancer. 
-- 🌱 I’m currently learning VueJS.
-- 🤟🏻 I'm fan of mountains and metall music. 
-
 ---
 
 ### Hard skills
